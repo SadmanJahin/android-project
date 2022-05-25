@@ -20,8 +20,8 @@ List of Features:
 
 5. **Settings:** User can limitedly change their information's like address and passwords. 
 
-
-
+<br />
+<br />
 
 ## App Preview
 ![image](https://user-images.githubusercontent.com/54625061/170211457-ff0eb2cd-f09f-4f19-ba3d-863ee2e3a1e5.png)
